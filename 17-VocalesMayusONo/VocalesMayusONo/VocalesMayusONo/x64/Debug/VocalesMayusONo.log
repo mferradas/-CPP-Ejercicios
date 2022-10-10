@@ -1,0 +1,7 @@
+﻿  VocalesMayusONo.cpp
+C:\Users\Maximiliano\source\repos\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo.cpp(14,18): warning C4145: '==': expresión relacional como expresión switch; posible confusión con '='
+C:\Users\Maximiliano\source\repos\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo.cpp(16,2): warning C4808: case '2' no es un valor válido para la condición switch de tipo 'bool'
+C:\Users\Maximiliano\source\repos\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo.cpp(17,2): warning C4808: case '3' no es un valor válido para la condición switch de tipo 'bool'
+C:\Users\Maximiliano\source\repos\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo.cpp(18,2): warning C4808: case '4' no es un valor válido para la condición switch de tipo 'bool'
+C:\Users\Maximiliano\source\repos\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo\VocalesMayusONo.cpp(19,2): warning C4808: case '5' no es un valor válido para la condición switch de tipo 'bool'
+  VocalesMayusONo.vcxproj -> C:\Users\Maximiliano\source\repos\VocalesMayusONo\VocalesMayusONo\x64\Debug\VocalesMayusONo.exe

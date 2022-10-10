@@ -1,0 +1,3 @@
+﻿  JuegoDados.cpp
+C:\Users\Maximiliano\source\repos\JuegoDados\JuegoDados\JuegoDados\JuegoDados.cpp(23,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JuegoDados.vcxproj -> C:\Users\Maximiliano\source\repos\JuegoDados\JuegoDados\x64\Debug\JuegoDados.exe
